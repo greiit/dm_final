@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Prediction of 30-day Hospital Readmission for Diabetic Patients
 
 **Course:** Data Mining, Final Project
@@ -44,3 +45,6 @@ reports/                  # report, slides, TEAM_CONTRIBUTIONS.md
 
 ## Reproducibility
 All random seeds come from `src/config.py` (`RANDOM_STATE = 42`).
+=======
+# dm_final
+>>>>>>> efa78931b1000d6f2a6b8d2e2756cfeecc82fccf
